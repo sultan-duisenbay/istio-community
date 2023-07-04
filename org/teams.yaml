@@ -85,6 +85,7 @@ teams:
           - howardjohn
           - listx
           - stewartbutler
+          - sultan-duisenbay
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
